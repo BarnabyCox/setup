@@ -1,0 +1,10 @@
+-python
+-intellicode
+-pylint
+-black formatter
+-flake8
+-isort
+-pylance
+-pylint
+
+-github theme
