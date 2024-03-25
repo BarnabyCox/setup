@@ -1,10 +1,15 @@
--python
--intellicode
--pylint
--black formatter
--flake8
--isort
--pylance
--pylint
+### VS Code Extensions
 
--github theme
+# General
+* intellicode
+* github theme
+
+# Python
+* python
+* pylint
+* black formatter
+* flake8
+* isort
+* pylance
+* pylint
+
